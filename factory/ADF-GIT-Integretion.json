@@ -1,0 +1,9 @@
+{
+	"name": "ADF-GIT-Integretion",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d10116e1-444f-4834-97f9-07bad8793cb0",
+		"tenantId": "13c1e255-1b6a-4ba3-b4d3-7655a28cbf96"
+	}
+}
